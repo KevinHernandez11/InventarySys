@@ -1,0 +1,13 @@
+Software privado con sistema de inventario donde se guardaran en una base de datos y tendra una interfaz grafica para que el usuario pueda registrar sus prodcutos,(CREAR,MOSTRAR,ACTUALIZAR Y ELIMINAR)
+
+-Conectar la base de datos
+-Crear una interfaz minima
+-Poder hacer que un producto ingrese en la base de datos desde la interfaz 
+-
+
+Hacer con 
+*Python
+*SupaBase
+*Flask
+
+y alguna biblioteca que necesite por ahi 
